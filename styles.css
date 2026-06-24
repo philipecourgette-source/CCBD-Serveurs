@@ -1,6 +1,69 @@
-body{
-  padding: 25px;
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    margin: 20px;
 }
-.title {
-	color: #5C6AC4;
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+.server {
+    background-color: white;
+    border: 1px solid #cccccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.online {
+    color: green;
+    font-weight: bold;
+}
+
+.offline {
+    color: red;
+    font-weight: bold;
+}
+
+.erreur {
+    border: 2px solid red;
+    animation: clignoter 1s infinite;
+}
+
+@keyframes clignoter {
+
+    0% {
+        background-color: white;
+    }
+
+    50% {
+        background-color: #ffd6d6;
+    }
+
+    100% {
+        background-color: white;
+    }
+}
+
+.resume-ok {
+    background-color: #d4edda;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid green;
+}
+
+.resume-erreur {
+    background-color: #f8d7da;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid red;
+}
+
+.info-panne {
+    margin-top: 5px;
+    font-size: 14px;
 }
