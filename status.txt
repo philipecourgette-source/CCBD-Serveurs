@@ -1,6 +1,47 @@
-Serveur Morestel : 1
-Serveur Trept : 0
+Serveur Annoisin-Chatelans : 1
+Serveur Arandon-Passins : 1
+Serveur Bouvesse-Quirieu : 0 : 2026-06-23 16:20
+Serveur Brangues : 1
+Serveur Chamagnieu : 1
+Serveur Charette : 1
+Serveur Chozeau : 1
+Serveur Corbelin : 1
+Serveur Courtenay : 1
+Serveur Crémieu : 1
+Serveur Creys-Mépieu : 1
+Serveur Dizimieu : 1
+Serveur Frontonas : 1
+Serveur Hières-sur-Amby : 1
+Serveur La Balme-les-Grottes : 1
 Serveur Le Bouchage : 1
-Serveur Saint-Chef : 1
 Serveur Les Avenières Veyrins-Thuellin : 1
-Serveur Brangues : 0
+Serveur Leyrieu : 1
+Serveur Montalieu-Vercieu : 0 : 2026-06-23 16:20
+Serveur Montcarra : 1
+Serveur Moras : 1
+Serveur Morestel : 1
+Serveur Optevoz : 0 : 2026-06-24 08:33
+Serveur Panossas : 1
+Serveur Parmilieu : 1
+Serveur Porcieu-Amblagnieu : 1
+Serveur Saint-Baudille-de-la-Tour : 1
+Serveur Saint-Chef : 1
+Serveur Saint-Hilaire-de-Brens : 1
+Serveur Saint-Marcel-Bel-Accueil : 0 2026-06-23 16:20
+Serveur Saint-Romain-de-Jalionas : 1
+Serveur Saint-Sorlin-de-Morestel : 1
+Serveur Saint-Victor-de-Morestel : 1
+Serveur Salagnon : 0 : 2026-06-23 16:20
+Serveur Sermérieu : 1
+Serveur Siccieu-Saint-Julien-et-Carisieu : 1
+Serveur Soleymieu : 1
+Serveur Tignieu-Jameyzieu : 1
+Serveur Trept : 1
+Serveur Vasselin : 1
+Serveur Vénérieu : 1
+Serveur Vernas : 1
+Serveur Vertrieu : 0 : 2026-06-23 16:20
+Serveur Veyssilieu : 1
+Serveur Vézeronce-Curtin : 1
+Serveur Vignieu : 1
+Serveur Villemoirieu : 1
