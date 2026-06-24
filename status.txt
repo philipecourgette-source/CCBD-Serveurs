@@ -1,0 +1,6 @@
+Serveur Morestel : 1
+Serveur Trept : 0
+Serveur Le Bouchage : 1
+Serveur Saint-Chef : 1
+Serveur Les Avenières Veyrins-Thuellin : 1
+Serveur Brangues : 0
