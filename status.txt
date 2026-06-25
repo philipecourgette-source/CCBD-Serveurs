@@ -1,4 +1,4 @@
-Serveur Annoisin-Chatelans : 0 : 2026-06-24 08:09
+Serveur Annoisin-Chatelans : 1
 Serveur Arandon-Passins : 1
 Serveur Bouvesse-Quirieu : 1
 Serveur Brangues : 1
@@ -8,11 +8,11 @@ Serveur Chozeau : 1
 Serveur Corbelin : 1
 Serveur Courtenay : 1
 Serveur Crémieu : 1
-Serveur Creys-Mépieu : 0 : 2026-06-23 20:16
+Serveur Creys-Mépieu : 1
 Serveur Dizimieu : 1
 Serveur Frontonas : 1
 Serveur Hières-sur-Amby : 1
-Serveur La Balme-les-Grottes : 0 : 2026-06-24 10:05
+Serveur La Balme-les-Grottes : 1
 Serveur Le Bouchage : 1
 Serveur Les Avenières Veyrins-Thuellin : 1
 Serveur Leyrieu : 1
@@ -44,4 +44,4 @@ Serveur Vertrieu : 1
 Serveur Veyssilieu : 1
 Serveur Vézeronce-Curtin : 1
 Serveur Vignieu : 1
-Serveur Villemoirieu : 0 : 2026-06-23 23:48
+Serveur Villemoirieu : 1
