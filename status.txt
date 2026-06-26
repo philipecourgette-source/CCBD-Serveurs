@@ -8,7 +8,7 @@ Serveur Chozeau : 1
 Serveur Corbelin : 0 : 2026-06-25 11:19
 Serveur Courtenay : 1
 Serveur Crémieu : 1
-Serveur Creys-Mépieu : 1
+Serveur Creys-Mépieu : 0 : 2026-06-24 11:10
 Serveur Dizimieu : 1
 Serveur Frontonas : 1
 Serveur Hières-sur-Amby : 1
